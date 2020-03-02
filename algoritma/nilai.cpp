@@ -27,6 +27,7 @@ else if(Nilai >= 0 && Nilai <=44)
 else
 { cout<<"error";	}    
 getch () ;
+return 0;
 }
 
 

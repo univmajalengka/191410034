@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-	//menukarkan 2 buah bilangan
 	int a, b, c;
 	a=3;
 	b=5;

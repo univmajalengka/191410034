@@ -1,10 +1,12 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout<<"Pilih Menu"<<endl;
-cout<<"1.Tarik Dana"<<endl;
-cout<<"2.Transfer Dana"<<endl;
-cout<<"3.Cek Dana"<<endl;
+cout<<"========================="<<endl;
+cout<<"=======Pilih Menu========"<<endl;
+cout<<"== 1.Tarik Dana         ="<<endl;
+cout<<"== 2.Transfer Dana      ="<<endl;
+cout<<"== 3.Cek Dana           ="<<endl;
+cout<<"========================="<<endl;
 
 int menu;
 cin>>menu;
