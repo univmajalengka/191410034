@@ -1,3 +1,5 @@
+#Program Angka Hilang
+
 def MencariAngka(A):
 	n = len(A)
 	total = (n + 1)*(n + 2)/2
